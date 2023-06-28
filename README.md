@@ -43,27 +43,4 @@
   <a href="https://api.whatsapp.com/send?phone=5491134374567" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/julian-arbeo-mateo-011774249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-## GitHub Profile Trophy 🏆 
-<a href="https://github.com/Nahuel61920/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Nahuel61920&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
-</a>
- 
-</div>
 
-
-<p align="center"><img src="animation.gif" width="35%"></p>
-<div style=" font-size: medium; color: #447ff7" align=center>
-
-
-<p align="center">
-  <a href="https://github.com/Nahuel61920">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Nahuel61920&theme=react-dark" />
-  </a>
-</p>
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-</div>
