@@ -3,10 +3,11 @@
 # Hello. I'm Julian Arbeo Mateo 👋
 
 - 🔭 I specialize in Full-Stack web development
-- 🖥️  Studying: Backend in Coderhouse
+- ⚡ studied: Python in Udemy
+- 🖥️ studied: Full-Stack in Coderhouse
 
 
-##  Skills ⚡
+##  Skills
   
 #### Front-end:
 <div>
@@ -18,6 +19,7 @@
   <img align="center" title="Tailwindcss" alt="Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" title="Typescript" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
 #### Back-end:
 <div>
